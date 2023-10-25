@@ -1,0 +1,10 @@
+const leitor =require("readline-sync")
+
+let a=1234
+let b=leitor.question("Digite sua senha: ")
+
+if (a = b){
+    console.log("Acesso concedido!");
+}else{
+    console.log("Senha incorreta,tente novamente")
+}

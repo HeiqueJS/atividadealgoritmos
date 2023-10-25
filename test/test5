@@ -1,0 +1,15 @@
+const leitor = require("readline-sync")
+
+let a = leitor.question("Insira um número: ")
+let b = leitor.question("Insira outro número: ")
+let c = leitor.question("Insira um número diferente dos demais: ")
+
+if (a > b && a > c) {
+    console.log("Seu primeiro número é maior que os demais!");
+} else if (b > a && b > c){
+    console.log("Seu segundo número é maior que os demais!") 
+} else if (c > a && c > b) { 
+    console.log("Seu terceiro número é maior que os demais") 
+} else { 
+    console.log("Valores incorretos") 
+}

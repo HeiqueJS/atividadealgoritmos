@@ -1,0 +1,5 @@
+const leitor=require("readline-sync")
+
+let a= leitor.question("Se o dia está frio,insira True ou False.")
+let b= leitor.question("Insira true ou false.Você está bem?")
+let c= leitor.question("Um dia tem 25 horas?True ou False.")

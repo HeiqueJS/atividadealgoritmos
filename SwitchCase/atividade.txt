@@ -1,0 +1,25 @@
+Atividade While + Switch Case
+
+Interpretação:
+1. Qual é a sintaxe básica do loop "while" em JavaScript?Declarações. A declaração é executada pelo menos uma vez e re-executada cada vez que a 
+condição for avaliada como verdadeira.
+
+2. Como podemos usar o "switch case" em conjunto com o loop "while"?Podemos criar um switch case em que armazene casos com o while.
+Ou fazendo o while de (condicion).
+
+3. Como podemos definir múltiplos casos para um único bloco de código no
+"switch case"?Usando o "break" para adicionar casos novos ao códigos.
+
+4. É obrigatório usar a declaração "break" após cada caso no "switch case"?
+
+5. Podemos usar expressões booleanas nos casos do "switch case"?Sim.
+
+6. É possível ter um caso padrão no "switch case"? Se sim, como podemos usá-
+lo?
+
+7. O que acontece se não houver nenhum caso correspondente ao valor fornecido
+no "switch case"?Ele não executa o caso.E com o uso do "defauth" mais "log" é possível adicionar uma mensagem de erro para o usúario.
+8. Podemos usar o "switch case" sem um loop? Se sim, qual seria um exemplo de
+uso?
+9. É possível ter casos vazios no "switch case"? Se sim, por que usaríamos isso?É possível.Ele vazio nao pode ser usado,pois não retorna com o caso porque não
+tem,mas você pode usar "functions","log" e adicionar váriaveis ao caso vazio.
