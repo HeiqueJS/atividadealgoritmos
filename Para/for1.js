@@ -1,5 +1,6 @@
-for (let i = 0; i < 11; i++){
-	console.log(i);
-	console.log("Multiplicação por 1: ", i*1);
+const leiotr=require("readline-sync")
+
+for (let i = 1; i < 11; i++){
+	
+	console.log((i)+" veses 5 é igual a "+(i*5));
 }
-  
